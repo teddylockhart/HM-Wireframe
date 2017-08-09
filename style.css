@@ -3,12 +3,10 @@ body {
 	width: 960px;
 	border-top: 10px;
 	margin: 10px auto 10px;
-/* Part of assignment instructions but doesn't do anything? */
-	content: #ebebeb;
 }
 
 header, nav, section, h1, p, aside, footer{
-	background: #ccc;
+	background: #ebebeb;;
 	color: grey;
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	font-size: 18px;
@@ -23,7 +21,7 @@ header, nav {
 section, aside {
 	float: left;
 	height: 300px;
-	background: #ccc;
+	background: #ebebeb;
 	margin-bottom: 20px;
 	text-align: center;
 }
@@ -47,7 +45,7 @@ article {
 }
 
 h1, p {
-	background: #ccc;
+	background: #ebebeb;;
 	color: grey;
 	text-align: center;
 	margin: 10px;
